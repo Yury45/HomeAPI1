@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAPI1", "HomeAPI1.csproj", "{93B57515-8AA8-49AE-860F-FDC479157888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeApi.Contracts", "..\HomeApi.Contracts\HomeApi.Contracts.csproj", "{19831496-E9ED-4469-BB04-D9B94A23EB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B57515-8AA8-49AE-860F-FDC479157888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B57515-8AA8-49AE-860F-FDC479157888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B57515-8AA8-49AE-860F-FDC479157888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B57515-8AA8-49AE-860F-FDC479157888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19831496-E9ED-4469-BB04-D9B94A23EB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19831496-E9ED-4469-BB04-D9B94A23EB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19831496-E9ED-4469-BB04-D9B94A23EB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19831496-E9ED-4469-BB04-D9B94A23EB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAC4447-6FF0-413B-8E95-E62F6E4670FC}
+	EndGlobalSection
+EndGlobal
